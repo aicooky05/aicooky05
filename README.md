@@ -1,7 +1,13 @@
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI4Z3F2YWJsZnhieTE3YmZoazRsZzFvMGlnb2Z2ZnBlaDBxb2M3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="300"/>
+</div>
+
+
+## Обо мне
 
 Студент 3 курса РТУ МИРЭА по направлению "Прикладная Информатика". Обучаюсь на кафедре практической и прикладной информатики по профилю "Информатизация организаций".
 
-В настоящее время углубленно изучаю MySQL и реляционные базы данных.
+В настоящее время изучаю MySQL и реляционные базы данных.
 
 ## 🛠 Технологии
 
@@ -14,16 +20,16 @@
 
 ## 💼 Проекты
 
-### [Управление ИТ-сервисами для стоматологической клиники](https://github.com/aicooky05/term4-project)
+### 🦷 [Управление ИТ-сервисами для стоматологической клиники](https://github.com/aicooky05/term4-project)
 Курсовая работа по разработке ITSM-системы для управления сервисами, заявками и SLA в сети стоматологических клиник
 
-### [Анализ и концептуальное моделирование систем](https://github.com/aicooky05/analysis-and-conceptual-modeling-of-systems)
+### 📊 [Анализ и концептуальное моделирование систем](https://github.com/aicooky05/analysis-and-conceptual-modeling-of-systems)
 Практические работы и доклад с созданием UML-диаграмм для различных предметных областей
 
-### [Кулинарный Telegram-бот](https://github.com/aicooky05/cooking-bot)
+### 🤖 [Кулинарный Telegram-бот](https://github.com/aicooky05/cooking-bot)
 Telegram-бот на Python с базой рецептов, использующий SQLite для хранения данных
 
-### [Проектирование баз данных](https://github.com/aicooky05/database-design)
+### 🗃️ [Проектирование баз данных](https://github.com/aicooky05/database-design)
 Практические работы по проектированию и реализации реляционных баз данных
 
 ## 📈 Навыки
